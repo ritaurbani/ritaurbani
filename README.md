@@ -1,3 +1,6 @@
+Hello! 👋
+
+I am Rita Urbani.
 
 🙋‍♂️I am a novice specialist in the field of data analysis. I have a background in humanities studies with commercial and financial experience. 
 🎓I took a new direction for myself and I studied data analysis at Masterschool.
