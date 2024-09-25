@@ -8,4 +8,4 @@ I am Rita Urbani.
 👷‍♂️I am looking for a job that will bring experience, growth and satisfaction:)
 
 🛠 Languages and tools:
-Python, SQL, Tableau, Pandas, Data Visualization, Microsoft Excel, numPy, Exploratory Data Analysis (EDA), A\B Testing
+SQL, Tableau, Pandas, Data Visualization, Microsoft Excel, numPy, Exploratory Data Analysis (EDA), A\B Testing
