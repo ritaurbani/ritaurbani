@@ -2,9 +2,9 @@ Hello! 👋
 
 I am Rita Urbani.
 
-🙋‍♂️I am a novice specialist in the field of data analysis. I have a background in humanities studies with commercial and financial experience. 
-🎓I took a new direction for myself and I studied data analysis at Masterschool.
-👐I am determined to make data my career path.  
+🙋‍♂️I am a student ....... I have a background in humanities studies with commercial and financial experience. 
+🎓I took a new direction for myself and I web dvelopment.
+👐I am determined to make coding and programming my career path.  
 👷‍♂️I am looking for a job that will bring experience, growth and satisfaction:)
 
 🛠 Languages and tools:
